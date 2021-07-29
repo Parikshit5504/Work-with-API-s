@@ -1,0 +1,15 @@
+{
+    "posts": [
+    { "id": 1, "title": "json-server", "author": "typicode" },
+    { "id": 2, "title": "name", "author": "Pawan vedpathak" },
+    { "id": 3, "title": "name", "author": "Parikshit desai" },
+    { "id": 2, "title": "name", "author": "rohit jadhav" }
+    
+    
+    ],
+    "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 }
+    ],
+    "profile": { "name": "typicode" }
+    }
+    
